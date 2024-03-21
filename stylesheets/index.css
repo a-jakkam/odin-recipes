@@ -1,13 +1,24 @@
-h1 {
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
-    background-color: rgb(119, 0, 255);
-    color: white
+body {
+    background-color: #eee;
+    margin-top: 20px;
 }
+
+
+.title {  
+    padding: 0px;
+    border: 10px dotted white;
+    margin: 50px;
+    text-align: center;
+    font-family: Comic, sans-serif;
+    font-size: 80px;
+    background-color: rgb(120, 208, 211);
+    color: white;
+}
+    
 
 li {
     font-size: 30px;
     color: black;
-    background-color: blanchedalmond;
+    background-color: rgb(247, 203, 224);
+    margin: 10px;
 }
